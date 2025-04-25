@@ -1,0 +1,1 @@
+export { AcademicProgramSection } from "./AcademicProgramSection";
