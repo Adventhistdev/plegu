@@ -1,1 +1,0 @@
-export { AdmissionProcessSection } from "./AdmissionProcessSection";
